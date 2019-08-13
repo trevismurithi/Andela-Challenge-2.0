@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41288760641",
+    "firebase_url": "https://travelmantics-trevis.firebaseio.com",
+    "project_id": "travelmantics-trevis",
+    "storage_bucket": "travelmantics-trevis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41288760641:android:dd45ad209212a075",
+        "android_client_info": {
+          "package_name": "com.trevis.travelmantics_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41288760641-3doe4d5n2eoj1ds98m0c9b7ekr76e66v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trevis.travelmantics_3",
+            "certificate_hash": "8d11d253c6d9ea336a936a19b93dda54f6f01a5b"
+          }
+        },
+        {
+          "client_id": "41288760641-gjaodm8qspjv60qf1f38raftk668b911.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8VNGlL08M92R5Yv7xagsFEt6D9CV_gNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41288760641-gjaodm8qspjv60qf1f38raftk668b911.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
